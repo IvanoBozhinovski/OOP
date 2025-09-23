@@ -1,1 +1,1 @@
-# OOP
+Tuka kje stojat zadachite od OOP.
